@@ -2,6 +2,6 @@
 
 ## Added one line, too!
 
-** some important note! **
+**some important note!**
 
-_ something completely different _
+_something completely different_
